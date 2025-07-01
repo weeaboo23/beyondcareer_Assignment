@@ -10,7 +10,7 @@ const Contact = () => {
         </p>
 
         <form
-          action="https://formspree.io/f/your-form-id"
+          action="https://formspree.io/f/xjkrlpdq"
           method="POST"
           className="bg-white p-6 rounded-lg shadow-md grid gap-6 text-left"
         >
@@ -56,9 +56,8 @@ const Contact = () => {
           <p>📧 Email: contact@beyondcareer.in</p>
           <p>📱 Phone: +91 98765 43210</p>
           <div className="flex justify-center gap-6 text-xl mt-4">
-            <a href="#" className="hover:text-indigo-600">🌐 LinkedIn</a>
-            <a href="#" className="hover:text-indigo-600">🐦 Twitter</a>
-            <a href="#" className="hover:text-indigo-600">📘 Facebook</a>
+            <a href="https://www.linkedin.com/company/beyondgradess" className="hover:text-indigo-600">🌐 LinkedIn</a>
+            <a href="https://www.instagram.com/beyond_career_/" className="hover:text-indigo-600">📘 Instagram</a>
           </div>
         </div>
       </div>
