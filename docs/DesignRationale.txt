@@ -1,0 +1,4 @@
+We chose a clean, modern design with a calming indigo-yellow palette to convey trust and energy. 
+Tailwind CSS ensured responsive design across devices.
+A desktop-only video background enriches visual impact while fallback ensures performance on mobile.
+Sections are structured clearly for smooth navigation and user experience, reflecting Beyond Career’s mission.

@@ -1,0 +1,4 @@
+Built with React.js and Tailwind CSS for rapid UI development. 
+Video background is optimized for desktop. 
+Formspree handles form submissions. Deployed via Vercel. 
+Challenges included video responsiveness and cross-browser testing.
