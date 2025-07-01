@@ -3,7 +3,7 @@
 A professional, responsive, and modern landing page for **Beyond Career**, a visionary startup founded by students from IIT Kharagpur to help students unlock career opportunities through mentorship, internships, and community support.
 
 ### Live Demo
-[https://beyond-career.vercel.app](https://beyond-career.vercel.app) <!-- Replace with your actual URL -->
+[https://beyondcareer-assignment-bwoh-kz75uz5q2.vercel.app/](https://beyondcareer-assignment-bwoh.vercel.app/)
 
 ---
 

@@ -1,2 +1,2 @@
 Project pushed to GitHub, connected to Vercel, and deployed instantly. 
-Vercel auto-builds on every commit. Final URL: https://your-url.vercel.app
+Vercel auto-builds on every commit. Final URL: https://beyondcareer-assignment-bwoh.vercel.app/
